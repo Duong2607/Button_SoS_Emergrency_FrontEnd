@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "155649618525",
+    "project_id": "sosproject-cdb0b",
+    "storage_bucket": "sosproject-cdb0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155649618525:android:cb39613f53fc70fa4cd3b4",
+        "android_client_info": {
+          "package_name": "com.duong.dt204733.fcmExample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNNS-hT1LlWZ6VGVsnEN_QqNWxM1TYqfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155649618525:android:05f188c50577ca2c4cd3b4",
+        "android_client_info": {
+          "package_name": "com.react_native_101"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNNS-hT1LlWZ6VGVsnEN_QqNWxM1TYqfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
